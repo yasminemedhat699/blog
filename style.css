@@ -1,0 +1,84 @@
+body {
+    font-family: Segoe UI, sans-serif;
+    background: #f2f2f2;
+}
+
+.fp-nav {
+    background: #1f1f1f;
+}
+
+.nav-link {
+    color: #ddd!important;
+    margin-right: 18px;
+}
+
+.profile-section {
+    margin-top: 80px;
+    background: #7d7d7d;
+    padding: 60px 0;
+}
+
+.profile-img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.article-img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    margin-bottom: 12px;
+}
+
+.article-card {
+    background: #fff;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, .1);
+}
+
+.article-card h6,
+a {
+    color: #ff8c32;
+}
+
+.contact-area {
+    background: #fff;
+    padding: 70px 0;
+}
+
+.btn-contact {
+    background: #ff8c32;
+    color: #fff;
+    border-radius: 25px;
+    padding: 10px 30px;
+}
+
+.fp-footer {
+    background: #2b2b2b;
+    color: #bbb;
+    padding: 60px 0;
+}
+
+.fp-footer h6 {
+    color: #fff;
+}
+
+.locations {
+    background: #3a3a3a;
+    color: #fff;
+    padding: 60px 0;
+}
+
+.loc-box {
+    border: 1px solid #555;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.fp-bottom {
+    background: #1a1a1a;
+    color: #aaa;
+    padding: 15px 0;
+    font-size: 14px;
+}
